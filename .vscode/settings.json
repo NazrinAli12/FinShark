@@ -1,0 +1,10 @@
+{
+    "editor.fontSize": 14,
+    "editor.tabSize": 4,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
+    "terminal.integrated.fontFamily": "Consolas, 'Courier New', monospace",
+    "workbench.colorTheme": "Default Dark+",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.formatOnSave": true
+}
